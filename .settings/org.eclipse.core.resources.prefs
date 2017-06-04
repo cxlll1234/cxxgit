@@ -1,2 +1,5 @@
 eclipse.preferences.version=1
+encoding//myoper/__init__.py=utf-8
+encoding//myoper/migrations/0001_initial.py=utf-8
+encoding//myoper/models.py=utf-8
 encoding//myoper/views.py=utf-8
